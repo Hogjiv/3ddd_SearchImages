@@ -1,3 +1,6 @@
-2023/06/18-01:34:43.215 4780 Reusing MANIFEST D:\Ira\Program\FindImage\tmp\Default\Session Storage/MANIFEST-000001
-2023/06/18-01:34:43.216 4780 Recovering log #11
-2023/06/18-01:34:43.217 4780 Reusing old log D:\Ira\Program\FindImage\tmp\Default\Session Storage/000011.log 
+2023/06/23-14:34:53.199 6a3c Reusing MANIFEST D:\Ira\Program\FindImage\tmp\Default\Session Storage/MANIFEST-000001
+2023/06/23-14:34:53.199 6a3c Recovering log #19
+2023/06/23-14:34:53.200 6a3c Reusing old log D:\Ira\Program\FindImage\tmp\Default\Session Storage/000019.log 
+2023/06/23-14:34:58.776 1230 Level-0 table #24: started
+2023/06/23-14:34:58.779 1230 Level-0 table #24: 22713 bytes OK
+2023/06/23-14:34:58.781 1230 Delete type=0 #19
